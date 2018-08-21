@@ -4,6 +4,6 @@ class Presentacion
 	 {		
   		System.out.print("\nRosas Hernandez Pablo Fernando");
 		System.out.print("\nGrupo: 5IM9");
-		System.out.print("\nHoal mundo :)");
+		System.out.print("\nHola mundo :)");
   	 }
 }
